@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>JNL 221 - DV3</title>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <div class="row">
+        <header class="col bg-secondary text-white p-2 mb-4">
+          <h3>JNL 221: Data Visualization Assignment 6</h3>
+        </header>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-7">
+
+
+          <h1>BART Ridership is still slow to catch up to pre-pandemic numbers</h1>
+
+          <p>The Bay Area Rapid Transit, or BART, averaged over 400,000 daily riders per weekday in the Bay Area. Since COVID-19, those numbers have been slow to return to their original average. Even today, over two and a half years after the start of the pandemic, ridership numbers are still less than 40 percent of pre-pandemic numbers.</p>
+
+          <!-- PLACE YOUR DATAWRAPPER <iframe> DIRECTLY UNDERNEATH ME! -->
+
+            <iframe title="BART Weekday Ridership By Month" aria-label="Interactive line chart" id="datawrapper-chart-TVrUG" src="https://datawrapper.dwcdn.net/TVrUG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+          
+          <!-- PLACE YOUR DATAWRAPPER <iframe> ABOVE ME!-->
+        
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="col-lg-7">
+
+
+          <p>Other transit agencies have been able to get much closer to the old numbers. MTA in New York City, for example, has been able to get up to over 70% of its old numbers, and the buses are even closer. So why can’t BART do the same? San Francisco, more than other cities, has been very slow to open back up. Many businesses have moved to be fully online and empty office buildings are still very common. Unless these businesses chose to move back in person, there will never be a large enough market to support a rapid transit system like BART.</p>
+
+<p> During the Pandemic, BART opened two new stations, both of these are in the bottom third of ridership even with the low overall numbers and one is in the bottom 5. Milpitas station was supposed to be connected to the light rail and san Jose and would serve as a gateway to Silicon Valley from Oakland and the rest of the east bay. The station has fallen short of these expectations. Opening in the middle of a pandemic when local residents are already content with staying in isn’t a recipe for high ridership.
+</p>
+
+          <!-- PLACE YOUR DATAWRAPPER <iframe> DIRECTLY UNDERNEATH ME! -->
+
+            <iframe title="5 Stations with the lowest average weekday ridership in September" aria-label="Column Chart" id="datawrapper-chart-LsBTk" src="https://datawrapper.dwcdn.net/LsBTk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+<div class="row">
+
+  <p> As BART tries to maintain its normal service, the budget is starting to get smaller and smaller. This could potentially result in cuts in service. For example, when the agency moved from 4 a.m. to 5 a.m. to start service, many who worked early and relied on the service for their jobs were out of luck. If BART can’t figure out how to get its ridership numbers up, other daily riders could experience a similar fate.</p>
+
+</script>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+  </body>
+</html>
