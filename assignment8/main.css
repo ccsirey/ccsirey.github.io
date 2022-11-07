@@ -1,0 +1,120 @@
+body {
+  font-family: baskerville;
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 30px;
+}
+
+.byline {
+  color: mediumseagreen;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: left;
+  margin-left: 2px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+
+.date {
+  color: lightgray;
+  font-size: 15px;
+  font-family: helvetica;
+  text-align: left;
+  margin-left: 2px;
+  margin-top: 3px;
+  margin-bottom:5px;
+}
+
+header {
+  background-color: black;
+  font-family: Federant;
+  text-decoration-color: whitesmoke;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+  text-align: center;
+  max-width: 1000px;
+}
+
+img {
+  width: 100%;
+}
+
+.caption {
+  font-size: 40px;
+  font-family: helvetica;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 2px
+}
+
+.creds {
+  text-align: right;
+  font-size: 10px;
+  font-family: helvetica;
+  margin-top: 1px;
+  margin-right: 3px;
+  color: lightgray;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+h1 {
+  font-style: regular;
+  font-size: 40px;
+  text-align: center;
+  font-family: times;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+
+.ex1 {
+  font-size: 20px;
+  text-align: left;
+}
+
+p {
+  max-width: 630px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+  font-family: baskerville;
+  text-align: left;
+ }
+.cap {
+  text-align: left;
+  font-size: 12px;
+  font-family: helvetica;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  margin-left: 50px;
+  color: black;
+}
+
+.cred2 {
+  text-align: left;
+  font-size: 10px;
+  font-family: helvetica;
+  margin-top: 1px;
+  margin-left: 50px;
+  color: lightgray;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
